@@ -1,8 +1,8 @@
 import 'package:auth/views/home_view.dart';
 import 'package:flutter/material.dart';
 
-class myApp extends StatelessWidget {
-  const myApp({
+class MyApp extends StatelessWidget {
+  const MyApp({
     super.key,
   });
 
